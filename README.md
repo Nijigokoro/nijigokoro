@@ -1,7 +1,5 @@
 ### Hi there 👋 !
 
----
-
 I'm Nijigokoro and I like coding
 
 # Softwares I use :
